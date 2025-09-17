@@ -1,16 +1,12 @@
-# 📊 Trade Ledger Performance Dashboard
+# Trade Ledger Dashboard Project
 
-Welcome to the Trade Ledger Dashboard—a dynamic, slicer-driven analytics tool designed to uncover trading patterns, performance trends, and strategic opportunities across exchanges and timeframes.
+## Project Overview
+This project showcases a **Power BI dashboard** designed to analyze and visualize trade ledger data. The dashboard helps stakeholders quickly understand trends, identify anomalies, and make data-driven decisions. It includes key performance indicators, visual summaries, and interactive elements to explore the dataset.
 
----
-
-## 🧭 Explore the Dashboard
-
-Use slicers to:
-- Filter by **date range**, **exchange**, or **year**
-- Compare **monthly performance**
-- Analyze **win/loss ratios** and **net P&L**
-- Visualize **cumulative growth** and **volatility**
+**Project Objectives:**
+- Provide an interactive view of trade ledger data.
+- Identify patterns and trends in transactions.
+- Present insights through visualizations for easy decision-making.
 
 ---
 
