@@ -63,7 +63,7 @@ Feel free to use your own data or reach out for guidance on replicating the setu
 ## 📁 How to Use
 
 1. Clone or download the repository.
-2. Open the dashboard images in `/assets`.
+2. Open the dashboard images .
 3. Use the README as a strategic guide.
 4. Explore the live dashboard via the web link.
 
