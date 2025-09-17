@@ -17,7 +17,7 @@ Use slicers to:
 ## 🖼️ Dashboard Previews
 
 ### 📌 Overview Dashboard
-![Trade Ledger Overview](assets/trade-ledger-dashboard-1.png)
+![Trade Ledger Overview](assets/trade-ledger-dashboard-1.png](https://github.com/apeksha1403/Trade-Ledger-Interactive-Dashboard/blob/main/Trade%20Leager%20Report%201.png)
 
 ### 📌 Exchange & Monthly Analysis
 ![Exchange Analysis](assets/trade-ledger-dashboard-2.png)
