@@ -9,7 +9,7 @@ Welcome to the Trade Ledger Dashboard—a dynamic, slicer-driven analytics tool 
 ### 🔹 Overview Dashboard
 <p align="center">
   <img src="assets/trade-ledger-dashboard-1.png" width="700" alt="Trade Ledger Overview"/>
-  <br><em>📊 Trade Ledger Overview: Cumulative P&L and Profit Status</em>
+  <br><em>📊 Trade Leager Report 1.png</em>
 </p>
 
 <p align="center">
