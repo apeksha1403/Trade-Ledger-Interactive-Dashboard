@@ -7,18 +7,12 @@ Welcome to the Trade Ledger Dashboard—a dynamic, slicer-driven analytics tool 
 ## 🖼️ Dashboard Previews
 
 ### 🔹 Overview Dashboard
-<p align="center">
-  <img src="assets/trade-ledger-dashboard-1.png" width="700" alt="Trade Ledger Overview"/>
-  <br><em>📊 Trade Leager Report 1.png</em>
-</p>
+![Dashboard](![Dashboard](pharma_product_dashboard.png)
+)
 
-<p align="center">
-  <img src="assets/trade-ledger-dashboard-2.png" width="700" alt="Exchange & Monthly Analysis"/>
-  <br><em>📈 Exchange & Monthly Analysis: Win Rates, Volatility, and Strategy Insights</em>
-</p>
 
 ### 🔹 Exchange & Monthly Analysis
-![Exchange Analysis](assets/trade-ledger-dashboard-2.png)
+![Exchange Analysis](trade-ledger-dashboard-2.png)
 
 ---
 
