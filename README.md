@@ -6,39 +6,46 @@ Welcome to the Trade Ledger Dashboard—a dynamic, slicer-driven analytics tool 
 
 ## 🧭 Explore the Dashboard
 
-This dashboard is fully interactive. Use slicers to:
+Use slicers to:
 - Filter by **date range**, **exchange**, or **year**
 - Compare **monthly performance**
 - Analyze **win/loss ratios** and **net P&L**
 - Visualize **cumulative growth** and **volatility**
 
-> 💡 Tip: Try toggling between 2024 and 2025 to see how strategy shifts impacted results.
+---
+
+## 🖼️ Dashboard Previews
+
+### 📌 Overview Dashboard
+![Trade Ledger Overview](assets/trade-ledger-dashboard-1.png)
+
+### 📌 Exchange & Monthly Analysis
+![Exchange Analysis](assets/trade-ledger-dashboard-2.png)
+
+> 💡 Tip: Toggle slicers to reveal how KPIs shift across timeframes and exchanges.
 
 ---
 
 ## 🔍 What You'll Discover
 
 ### 📈 Performance Patterns
-- See how consistent daily net values evolve across months.
-- Identify which exchanges yield higher win rates.
-- Spot volatility spikes and drawdown risks.
+- Consistent daily net values across months
+- Exchange-wise win rate comparison
+- Volatility spikes and drawdown risks
 
 ### 📊 Strategic Insights
-- Larger trades = higher potential, but also greater risk.
-- Profitable days are often offset by sharp losses.
-- Some months consistently outperform others.
+- Larger trades = higher potential, but greater risk
+- Profitable days often offset by sharp losses
+- Certain months consistently outperform others
 
 ---
 
-## 🧠 What to Do Next
+## ✅ Actionable Takeaways
 
-### ✅ Actionable Takeaways
 - Focus on **profitable months and weekdays**
 - Apply **stricter risk management** and **position sizing**
 - Monitor **trade sizes** to reduce volatility
 - Use **influencer insights** to refine your strategy
-
-> 📌 Use these insights to build a more consistent and resilient trading approach.
 
 ---
 
