@@ -17,10 +17,10 @@ Use slicers to:
 ## 🖼️ Dashboard Previews
 
 ### 📌 Overview Dashboard
-![Trade Ledger Overview](assets/trade-ledger-dashboard-1.png)
+![Trade Ledger Overview](Trade_Leager_Report_1.png)
 
 ### 📌 Exchange & Monthly Analysis
-![Exchange Analysis](assets/trade-ledger-dashboard-2.png)
+![Exchange Analysis](Trade_Leager_Report_2.png)
 
 > 💡 Tip: Toggle slicers to reveal how KPIs shift across timeframes and exchanges.
 
