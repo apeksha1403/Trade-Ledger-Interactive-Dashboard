@@ -15,7 +15,7 @@ This project showcases a **Power BI dashboard** designed to analyze and visualiz
 ### 📌 Overview Dashboard
 ![Trade Ledger Overview](Trade_Leager_Report_1.png)
 
-### 📌 Exchange & Monthly Analysis
+---
 ![Exchange Analysis](Trade_Leager_Report_2.png)
 
 > 💡 Tip: Toggle slicers to reveal how KPIs shift across timeframes and exchanges.
