@@ -1,6 +1,6 @@
-# Trade Ledger Dashboard Project
+# 📊 Trade Ledger Dashboard Project
 
-## Project Overview
+## 🧭 Project Overview
 This project showcases a **Power BI dashboard** designed to analyze and visualize trade ledger data. The dashboard helps stakeholders quickly understand trends, identify anomalies, and make data-driven decisions. It includes key performance indicators, visual summaries, and interactive elements to explore the dataset.
 
 **Project Objectives:**
