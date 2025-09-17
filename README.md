@@ -52,7 +52,7 @@ Use slicers to:
 ## 🎥 Bonus Resources
 
 - 📹 **Short Video Overview**: [Insert video link here]
-- 🌐 **Live Dashboard Access**: [Insert web report link here]
+- 🌐 **Live Dashboard Access**: [[Insert web report link here](https://app.powerbi.com/view?r=eyJrIjoiY2VjNjc4ZWUtOWEwYi00YmE1LTkzZTItZTA2MGYwZTk0MGYyIiwidCI6IjRjZjRmMmViLTliNDctNGNmMS1iZjRhLWIxZjcyZmUwNzM5ZSJ9)]
 
 ---
 
