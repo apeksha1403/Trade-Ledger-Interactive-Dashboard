@@ -47,8 +47,8 @@ This project showcases a **Power BI dashboard** designed to analyze and visualiz
 
 ## 🎥 Bonus Resources
 
-- 📹 **Short Video Overview**: [[Insert video link here](https://github.com/apeksha1403/Trade-Ledger-Interactive-Dashboard/blob/main/Short%20live%20Report.mp4)]
-- 🌐 **Live Dashboard Access**: [[Insert web report link here](https://app.powerbi.com/view?r=eyJrIjoiY2VjNjc4ZWUtOWEwYi00YmE1LTkzZTItZTA2MGYwZTk0MGYyIiwidCI6IjRjZjRmMmViLTliNDctNGNmMS1iZjRhLWIxZjcyZmUwNzM5ZSJ9)]
+- 📹 **Short Video Overview**: [[link](https://github.com/apeksha1403/Trade-Ledger-Interactive-Dashboard/blob/main/Short%20live%20Report.mp4)]
+- 🌐 **Live Dashboard Access**: [[ web report link ](https://app.powerbi.com/view?r=eyJrIjoiY2VjNjc4ZWUtOWEwYi00YmE1LTkzZTItZTA2MGYwZTk0MGYyIiwidCI6IjRjZjRmMmViLTliNDctNGNmMS1iZjRhLWIxZjcyZmUwNzM5ZSJ9)]
 
 ---
 
